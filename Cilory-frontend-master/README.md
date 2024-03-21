@@ -1,4 +1,4 @@
-# React E-commerce Website
+# MERN E-commerce (Cilory Clone) Website
 
 ## Features
 
